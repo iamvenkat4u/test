@@ -1,4 +1,8 @@
 apple
 banana
 cat
+<<<<<<< HEAD
 elephant
+=======
+dog
+>>>>>>> 3a95fb5899280afa266aef84e6571d562d0ae250
